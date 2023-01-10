@@ -2,10 +2,10 @@
 
 ### I'm Kamil
 - 🏫 I’m a full time worker as a ABS machine setter.
-- 💪 In a free time I'm currently learning Python as 100% beginner.
+- 💪 In a free time I'm currently learning Python as beginner.
 - 🕗 I'm from Poland
-- 🚀 I'm making this git, as a motivation for myself to hard working and keep learning everyday.
-- 
+- 🚀 I'm making this github, as a motivation for myself to hard working and keep learning everyday.
+
 - 📫 Reach me by email: [kamil.kaplon1993@gmail.com](mailto:kamil.kaplon1993@gmail.com)
    
 Following is my github stats
