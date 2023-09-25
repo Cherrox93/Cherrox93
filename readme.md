@@ -4,15 +4,15 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 Kursy:
 
-- Praktyczny kurs testowania oprogramowania, Udemy - Zakończony
-- Tester Automatyzujący (Java + Selenium), Codebrainers - Zakończony
-- SQL Server wprowadzenie, instalacja narzędzia, Udemy - W trakcie
-- SQL Server - zapytania. Querying, Udemy - W trakcie
+✅ Praktyczny kurs testowania oprogramowania, Udemy - Zakończony
+✅ Tester Automatyzujący (Java + Selenium), Codebrainers - Zakończony
+✅ SQL Server wprowadzenie, instalacja narzędzia, Udemy - W trakcie
+✅ SQL Server - zapytania. Querying, Udemy - W trakcie
 
 Webinary:
 
-- Jak zacząć karierę Testera Oprogramowania od zera? - GoIT 13.09.2023
-- 4 dniowy maraton QA - GoIT 18.09 - 21.09.2023
+☑️ Jak zacząć karierę Testera Oprogramowania od zera? - GoIT 13.09.2023
+☑️ 4 dniowy maraton QA - GoIT 18.09 - 21.09.2023
 
 Narzędzia:
 
