@@ -40,11 +40,12 @@ Kursy:
 
 ✅ <a href="https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/" target="_blank">Praktyczny kurs testowania oprogramowania</a>, Udemy - Zakończony
 
-✅ Tester Automatyzujący (Java + Selenium), Codebrainers - Zakończony
+✅ <a href="https://codebrainers.pl/tester_automat.pdf" target="_blank">Tester Automatyzujący (Java + Selenium)</a>, Codebrainers - Zakończony
 
-✅ SQL Server wprowadzenie, instalacja narzędzia, Udemy - W trakcie
 
-✅ SQL Server - zapytania. Querying, Udemy - W trakcie
+✅ <a href="https://www.udemy.com/course/wprowadzenie-do-sql-instalacja-i-narzedzi-egzamin-70-461_1/" target="_blank">SQL Server wprowadzenie, instalacja narzędzia</a>, Udemy - W trakcie
+
+✅ <a href="https://www.udemy.com/course/sql-server-zapytania-querying-exam-70-461/" target="_blank">SQL Server - zapytania. Querying</a>, Udemy - W trakcie
 
 Webinary:
 
