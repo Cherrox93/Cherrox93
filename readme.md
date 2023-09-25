@@ -30,9 +30,9 @@ Umiejętności:
 - Znajomość ISTQB Syllabus Foundation Level
 - SQL
 - Znajomość procedur testowania oraz tworzenia dokumentacji technicznej:
--- Tworzenie przypadki Testowe
--- Zgłaszanie bugów w Jira
--- Tworzenie przypadków testowych na podstawie historyjek użytkownika
+1. Tworzenie przypadków testowych
+2. Zgłaszanie bugów w Jira
+3. Tworzenie przypadków testowych na podstawie historyjek użytkownika
 
 Umiejętności miękkie:
 
