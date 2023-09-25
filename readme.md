@@ -54,5 +54,18 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 ☑️ <a href="https://qa.m.goit.global/pl/" target="_blank">4 dniowy maraton online Quality Assurance</a>, GoIT 18.09 - 21.09.2023
 
+- Środowisko testowe: <a href="https://tinyurl.com/3su9xtnc" target="_blank">GoIT Testowanie HTML - Aplikacja web</a>
+
+- Napisz 5 Test Case'ów dla 5 dowolnych funkcji w celu dalszego sprawdzenia produktu.
+
+<a href="https://drive.google.com/file/d/1LCYVwH1a89ZBf_Iu_lJROm13c1mT0NPc/view?usp=drive_link" target="_blank"><b>Test case 1</b></a>
+
+<a href="https://drive.google.com/file/d/19aQwSOrTs1s1BX4VioKue8lFWuUdvQJj/view?usp=drive_link" target="_blank"><b>Test case 2</b></a>
+
+<a href="https://drive.google.com/file/d/1LDI_Z3cYc6a2Ch2KfZld4Igo3c8p9H-f/view?usp=drive_link" target="_blank"><b>Test case 3</b></a>
+
+<a href="https://drive.google.com/file/d/1wHaePYeaQ40gxSBbh8vVBIrzdA79F9cc/view?usp=drive_link" target="_blank"><b>Test case 4</b></a>
+
+<a href="https://drive.google.com/file/d/1yTewOGRttQ_QFnjbADr4ilM0KZqWjP6c/view?usp=drive_link" target="_blank"><b>Test case 5</b></a>
 
 
