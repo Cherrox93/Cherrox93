@@ -1,8 +1,8 @@
-O mnie:
+## <a name="o mnie">O mnie:</a>
 
 Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tester. Testowaniem interesuje się od 2020 roku, głównie testy eksploracyjne aplikacji webowych, ale również i mobilnych. Moją pasją jest wyszukiwanie wszelkich bugów i defektów. W wolnych chwilach uczę się nowych rzeczy oraz staram się ciągle rozwijać w dziedzinie testowania.
 
-Narzędzia:
+## <a name="narzędzia">Narzędzia:</a>:
 
 - Jira
 - TestRail
@@ -11,7 +11,7 @@ Narzędzia:
 - Trello
 - Microsoft SQL Server Management Studio
 
-Umiejętności:
+## <a name="umiejętności">Umiejętności:</a>
 
 - Chrome DevTools
 - HTML/CSS
@@ -25,7 +25,7 @@ Umiejętności:
 
   III. Tworzenie przypadków testowych na podstawie historyjek użytkownika
 
-Umiejętności miękkie:
+## <a name="umiejętności miękkie">Umiejętności miękkie:</a>
 
 - Rozwiązywanie problemów i analityczne myślenie
 - Samodzielność
@@ -36,7 +36,7 @@ Umiejętności miękkie:
 - Umiejętność do szybkiego uczenia się nowych rzeczy
 - Dokładność
 
-Kursy:
+## <a name="kursy">Kursy:</a>
 
 ✅ <a href="https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/" target="_blank">Praktyczny kurs testowania oprogramowania</a>, Udemy - Zakończony
 
@@ -47,10 +47,12 @@ Kursy:
 
 ✅ <a href="https://www.udemy.com/course/sql-server-zapytania-querying-exam-70-461/" target="_blank">SQL Server - zapytania. Querying</a>, Udemy - W trakcie
 
-Webinary:
+## <a name="projects">Webinary:</a>
 
-☑️ Jak zacząć karierę Testera Oprogramowania od zera? - GoIT 13.09.2023
+☑️ <a href="https://qa.w.goit.global/pl/" target="_blank">Jak zacząć karierę Testera Oprogramowania od zera?</a>, - GoIT 13.09.2023
 
-☑️ 4 dniowy maraton QA - GoIT 18.09 - 21.09.2023
+
+☑️ <a href="https://qa.m.goit.global/pl/" target="_blank">4 dniowy maraton online Quality Assurance</a>, GoIT 18.09 - 21.09.2023
+
 
 
