@@ -1,8 +1,8 @@
-## <a name="o mnie">O mnie:</a>
+# <a name="o mnie">O mnie:</a>
 
 Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tester. Testowaniem interesuje się od 2020 roku, głównie testy eksploracyjne aplikacji webowych, ale również i mobilnych. Moją pasją jest wyszukiwanie wszelkich bugów i defektów. W wolnych chwilach uczę się nowych rzeczy oraz staram się ciągle rozwijać w dziedzinie testowania.
 
-## <a name="narzędzia">Narzędzia:</a>:
+# <a name="narzędzia">Narzędzia:</a>:
 
 - Jira
 - TestRail
@@ -11,7 +11,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 - Trello
 - Microsoft SQL Server Management Studio
 
-## <a name="umiejętności">Umiejętności:</a>
+# <a name="umiejętności">Umiejętności:</a>
 
 - Chrome DevTools
 - HTML/CSS
@@ -25,7 +25,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
   III. Tworzenie przypadków testowych na podstawie historyjek użytkownika
 
-## <a name="umiejętności miękkie">Umiejętności miękkie:</a>
+# <a name="umiejętności miękkie">Umiejętności miękkie:</a>
 
 - Rozwiązywanie problemów i analityczne myślenie
 - Samodzielność
@@ -36,7 +36,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 - Umiejętność do szybkiego uczenia się nowych rzeczy
 - Dokładność
 
-## <a name="kursy">Kursy:</a>
+# <a name="kursy">Kursy:</a>
 
 ✅ <a href="https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/" target="_blank">Praktyczny kurs testowania oprogramowania</a>, Udemy - Zakończony
 
@@ -47,14 +47,14 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 ✅ <a href="https://www.udemy.com/course/sql-server-zapytania-querying-exam-70-461/" target="_blank">SQL Server - zapytania. Querying</a>, Udemy - W trakcie
 
-## <a name="projects">Webinary:</a>
+# <a name="projects">Webinary:</a>
 
 ☑️ <a href="https://qa.w.goit.global/pl/" target="_blank">Jak zacząć karierę Testera Oprogramowania od zera?</a>, - GoIT 13.09.2023
 
 
 ☑️ <a href="https://qa.m.goit.global/pl/" target="_blank">4 dniowy maraton online Quality Assurance</a>, GoIT 18.09 - 21.09.2023
 
-**Dzień 1:**
+### **Dzień 1:**
 
 - Napisz 5 Test Case'ów dla 5 dowolnych funkcji w celu dalszego sprawdzenia produktu.
 
@@ -70,7 +70,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 <a href="https://drive.google.com/file/d/1yTewOGRttQ_QFnjbADr4ilM0KZqWjP6c/view?usp=drive_link" target="_blank"><b>Test case 5</b></a>
 
-**Dzień 2:**
+### **Dzień 2:**
 
 - Wybierz trzy z pięciu test case'ów i wypełnij bug report w Jira
 
@@ -80,7 +80,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 <a href="https://drive.google.com/file/d/16fzQKmlvF5iWQ0j2msBqe_urfh4-85O6/view?usp=drive_link" target="_blank"><b>Bug report 3</b></a>
 
-**Dzień 3:**
+### **Dzień 3:**
 
  - Gdy otrzymasz błąd od użytkownika, spróbuj go powtórzyć.
 
