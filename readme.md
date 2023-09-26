@@ -2,7 +2,7 @@
 
 Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tester. Testowaniem interesuje się od 2020 roku, głównie testy eksploracyjne aplikacji webowych, ale również i mobilnych. Moją pasją jest wyszukiwanie wszelkich bugów i defektów. W wolnych chwilach uczę się nowych rzeczy oraz staram się ciągle rozwijać w dziedzinie testowania.
 
-# <a name="narzędzia">Narzędzia:</a>:
+# <a name="narzędzia">Narzędzia:</a>
 
 - Jira
 - TestRail
