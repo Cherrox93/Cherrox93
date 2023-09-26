@@ -1,6 +1,6 @@
 # <a name="o mnie">O mnie:</a>
 
-Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tester. Testowaniem interesuje się od 2020 roku, głównie testy eksploracyjne aplikacji webowych (związanych z technologią blockchain), ale również i mobilnych. Wyszukiwanie wszelkich bugów i defektów sprawia mi ogromną przyjemność i sytasfakcję. Jestem stworzony do psucia rzeczy :) W wolnych chwilach staram się ciągle rozwijać w kierunku testowania i stale poszerzam swoją wiedzą. Moim głównym zainteresowaniem poza testowaniem jest akwarystyka. Posiadam akwarium o pojemności 400l. Praca przy tym zbiorniku uczy mnie cierpliwości, dokładności i sumienności w regularnym działaniu.
+Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tester. Testowaniem interesuje się od 2020 roku, głównie testy eksploracyjne aplikacji webowych (związanych z technologią blockchain), ale również i mobilnych. Wyszukiwanie wszelkich bugów i defektów sprawia mi ogromną przyjemność i satysfakcję. Jestem stworzony do psucia rzeczy :) W wolnych chwilach staram się ciągle rozwijać w kierunku testowania i stale poszerzam swoją wiedzą. Moim głównym zainteresowaniem poza testowaniem jest akwarystyka. Posiadam akwarium o pojemności 400l. Praca przy tym zbiorniku uczy mnie cierpliwości, dokładności i sumienności w regularnym działaniu.
 
 <a href="https://drive.google.com/file/d/1jANeRHCqSwJh4cK7Zgh8kx7nzp88Tbkz/view?usp=drive_link" target="_blank"><b>>>> Rybki <<<</b></a>
 
