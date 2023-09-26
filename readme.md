@@ -105,6 +105,8 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
  - Gdy otrzymasz błąd od użytkownika, spróbuj go powtórzyć.
 
+- Środowisko testowe: <a href="https://pro-test.qa.m.goit.global/" target="_blank">GoIT Pro Test - Aplikacja web</a>
+
 *Powiadomienie #1: Dziwne... Dlaczego odsetek odpowiedzi na test ma więcej niż 100%. Jak to jest możliwe? Czy na pewno wszystko u Was dobrze działa?*
 
 <a href="https://drive.google.com/file/d/1XF7rGz88LjNjGZ5EarnxE14kCmKi8CXu/view?usp=drive_link" target="_blank"><b>Bug report 1</b></a>
