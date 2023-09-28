@@ -127,4 +127,8 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 <a href="https://drive.google.com/file/d/1-yEkpHwCDcrS3Pc3hOBvoznA1Sg9R27w/view?usp=drive_link" target="_blank"><b>Bug report 5</b></a>
  
-     
+# <a name="certyfikaty">Certyfikaty:</a> 
+
+<a href="https://drive.google.com/file/d/1ck3UfV8uQCkL4fjmFEAvbtxYLUp7fz9m/view?usp=drive_link" target="_blank"><b>Praktyczny kurs testowania oprogramowania</b></a>
+
+
