@@ -17,6 +17,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 - BrowserStack
 - Postman
 - JMeter
+- Visual Studio Code
 
 # <a name="umiejętności">Umiejętności:</a>
 
