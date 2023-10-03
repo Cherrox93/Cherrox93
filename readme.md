@@ -72,6 +72,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 ☑️ <a href="https://qa.w.goit.global/pl/" target="_blank">Jak zacząć karierę Testera Oprogramowania od zera?</a> - GoIT 13.09.2023
 
+☑️ <a href="https://m.goit.global/pl/" target="_blank">7 dniowy maraton HTML/CSS</a> - GoIT 27.09.2023 - 04.10.2023
 
 ☑️ <a href="https://qa.m.goit.global/pl/" target="_blank">4 dniowy maraton online Quality Assurance</a> GoIT 18.09 - 21.09.2023
 
