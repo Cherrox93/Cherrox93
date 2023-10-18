@@ -133,4 +133,8 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 <a href="https://drive.google.com/file/d/1ck3UfV8uQCkL4fjmFEAvbtxYLUp7fz9m/view?usp=drive_link" target="_blank"><b>Praktyczny kurs testowania oprogramowania</b></a>
 
+<a href="https://drive.google.com/file/d/1MkAbkU0Qx31VtkSht9uXB3T49GL82qEm/view?usp=sharing" target="_blank"><b>Tester Oprogramowania - Tester Automatyzujący (Java)</b></a>
+
+<a href="https://drive.google.com/file/d/1OgWvw1IwuneP8C9UMHIcPwU_dOmUYrii/view?usp=sharing" target="_blank"><b>Certyfikat - Tester Oprogramowania (Java)</b></a>
+
 
