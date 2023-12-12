@@ -77,58 +77,6 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 ☑️ <a href="https://qa.m.goit.global/pl/" target="_blank">4 dniowy maraton online Quality Assurance</a> GoIT 18.09 - 21.09.2023
 
-### **Dzień 1:**
-
-- Napisz 5 Test Case'ów dla 5 dowolnych funkcji w celu dalszego sprawdzenia produktu.
-
-- Środowisko testowe: <a href="https://tinyurl.com/3su9xtnc" target="_blank">GoIT Testowanie HTML - Aplikacja web</a>
-
-<a href="https://drive.google.com/file/d/1LCYVwH1a89ZBf_Iu_lJROm13c1mT0NPc/view?usp=drive_link" target="_blank"><b>Test case 1</b></a>
-
-<a href="https://drive.google.com/file/d/19aQwSOrTs1s1BX4VioKue8lFWuUdvQJj/view?usp=drive_link" target="_blank"><b>Test case 2</b></a>
-
-<a href="https://drive.google.com/file/d/1LDI_Z3cYc6a2Ch2KfZld4Igo3c8p9H-f/view?usp=drive_link" target="_blank"><b>Test case 3</b></a>
-
-<a href="https://drive.google.com/file/d/1wHaePYeaQ40gxSBbh8vVBIrzdA79F9cc/view?usp=drive_link" target="_blank"><b>Test case 4</b></a>
-
-<a href="https://drive.google.com/file/d/1yTewOGRttQ_QFnjbADr4ilM0KZqWjP6c/view?usp=drive_link" target="_blank"><b>Test case 5</b></a>
-
-### **Dzień 2:**
-
-- Wybierz trzy z pięciu test case'ów i wypełnij bug report w Jira
-
-<a href="https://drive.google.com/file/d/1tE3jYD_7v2VaD0_Yan437ClDpemxPYds/view?usp=drive_link" target="_blank"><b>Bug report 1</b></a>
-
-<a href="https://drive.google.com/file/d/1Unrmp7VBqdrLBqQjaSp27MxvpZUWNLTM/view?usp=drive_link" target="_blank"><b>Bug report 2</b></a>
-
-<a href="https://drive.google.com/file/d/16fzQKmlvF5iWQ0j2msBqe_urfh4-85O6/view?usp=drive_link" target="_blank"><b>Bug report 3</b></a>
-
-### **Dzień 3:**
-
- - Gdy otrzymasz błąd od użytkownika, spróbuj go powtórzyć.
-
-- Środowisko testowe: <a href="https://pro-test.qa.m.goit.global/" target="_blank">GoIT Pro Test - Aplikacja web</a>
-
-*Powiadomienie #1: Dziwne... Dlaczego odsetek odpowiedzi na test ma więcej niż 100%. Jak to jest możliwe? Czy na pewno wszystko u Was dobrze działa?*
-
-<a href="https://drive.google.com/file/d/1XF7rGz88LjNjGZ5EarnxE14kCmKi8CXu/view?usp=drive_link" target="_blank"><b>Bug report 1</b></a>
-
-*Powiadomienie #2: Chcę zacząć robić test od początku, dlaczego nie mogę go zakończyć?*
-
-<a href="https://drive.google.com/file/d/1daqrupYnn-vl_dGZLyGCa2Pi2tq-ksfY/view?usp=drive_link" target="_blank"><b>Bug report 2</b></a>
-
-*Powiadomienie #3: Chcę sprawdzić, jak przydatne materiały proponujecie. Nie mogę otworzyć pełnej listy!*
-
-<a href="https://drive.google.com/file/d/1bAMVaiCRU-i96Dhuo4lSkikNJd7Oom-F/view?usp=drive_link" target="_blank"><b>Bug report 3</b></a>
-
-*Powiadomienie #4: W trakcie przechodzenia testu chciałam wrócić do poprzedniego pytania, ale nie mogłam.*
-
-<a href="https://drive.google.com/file/d/1qiGICP9UmrSbd6D5R-ROynl5wrku0Gix/view?usp=drive_link" target="_blank"><b>Bug report 4</b></a>
-
-*Powiadomienie #5: Zrobiłem w teście kilka błędów. Dlaczego nie mogę go przejść ponownie??? Czy wszystko u Was działa?*
-
-<a href="https://drive.google.com/file/d/1-yEkpHwCDcrS3Pc3hOBvoznA1Sg9R27w/view?usp=drive_link" target="_blank"><b>Bug report 5</b></a>
- 
 # <a name="certyfikaty">Certyfikaty:</a> 
 
 <a href="https://drive.google.com/file/d/1ck3UfV8uQCkL4fjmFEAvbtxYLUp7fz9m/view?usp=drive_link" target="_blank"><b>Praktyczny kurs testowania oprogramowania</b></a>
