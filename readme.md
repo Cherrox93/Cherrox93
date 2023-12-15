@@ -1,12 +1,12 @@
-# <a name="o mnie">O mnie:</a>
+# <a name="about me">About Me:</a>
 
-Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tester. Testowaniem interesuje się od 2020 roku, głównie testy eksploracyjne aplikacji webowych (związanych z technologią blockchain), ale również i mobilnych. Wyszukiwanie wszelkich bugów i defektów sprawia mi ogromną przyjemność i satysfakcję. Jestem stworzony do psucia rzeczy :) W wolnych chwilach staram się ciągle rozwijać w kierunku testowania i stale poszerzam swoją wiedzą. Moim głównym zainteresowaniem poza testowaniem jest akwarystyka. Posiadam akwarium o pojemności 400l. Praca przy tym zbiorniku uczy mnie cierpliwości, dokładności i sumienności w regularnym działaniu.
-
-<a href="https://drive.google.com/file/d/1jANeRHCqSwJh4cK7Zgh8kx7nzp88Tbkz/view?usp=drive_link" target="_blank"><b>>>> Rybki <<<</b></a>
+In progress
 
 
 
-# <a name="narzędzia">Narzędzia:</a>
+
+
+# <a name="tools">Tools:</a>
 
 - Jira
 - TestRail
@@ -19,7 +19,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 - JMeter
 - Visual Studio Code
 
-# <a name="umiejętności">Umiejętności:</a>
+# <a name="skills">Skills:</a>
 
 - Chrome DevTools
 - HTML/CSS
@@ -37,7 +37,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
   IV. Reportowanie bugów w Jira
 
-# <a name="umiejętności miękkie">Umiejętności miękkie:</a>
+# <a name="soft skills">Soft Skills:</a>
 
 - Rozwiązywanie problemów i analityczne myślenie
 - Samodzielność
@@ -48,7 +48,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 - Umiejętność do szybkiego uczenia się nowych rzeczy
 - Dokładność
 
-# <a name="kursy">Kursy:</a>
+# <a name="courses">Courses:</a>
 
 ✅ <a href="https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/" target="_blank">Praktyczny kurs testowania oprogramowania</a> Udemy - Zakończony
 
@@ -64,12 +64,11 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 ✅ <a href="https://codebrainers.pl/tester_automat.pdf" target="_blank">Tester Automatyzujący (Java + Selenium)</a> Codebrainers - Zakończony
 
-
 ✅ <a href="https://www.udemy.com/course/wprowadzenie-do-sql-instalacja-i-narzedzi-egzamin-70-461_1/" target="_blank">SQL Server wprowadzenie, instalacja narzędzia</a> Udemy - W trakcie
 
 ✅ <a href="https://www.udemy.com/course/sql-server-zapytania-querying-exam-70-461/" target="_blank">SQL Server - zapytania. Querying</a> Udemy - W trakcie
 
-# <a name="projects">Webinary:</a>
+# <a name="webinars">Webinars:</a>
 
 ☑️ <a href="https://qa.w.goit.global/pl/" target="_blank">Jak zacząć karierę Testera Oprogramowania od zera?</a> - GoIT 13.09.2023
 
@@ -77,7 +76,7 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 ☑️ <a href="https://qa.m.goit.global/pl/" target="_blank">4 dniowy maraton online Quality Assurance</a> GoIT 18.09 - 21.09.2023
 
-# <a name="certyfikaty">Certyfikaty:</a> 
+# <a name="certificates">Certificates:</a> 
 
 <a href="https://drive.google.com/file/d/1ck3UfV8uQCkL4fjmFEAvbtxYLUp7fz9m/view?usp=drive_link" target="_blank"><b>Praktyczny kurs testowania oprogramowania</b></a>
 
@@ -85,4 +84,6 @@ Cześć! Jestem Kamil i poszukuję pierwszej komercyjnej pracy jako software tes
 
 <a href="https://drive.google.com/file/d/1OgWvw1IwuneP8C9UMHIcPwU_dOmUYrii/view?usp=sharing" target="_blank"><b>Certyfikat - Tester Oprogramowania (Java)</b></a>
 
+# <a name="Hobby">Hobby:</a> 
 
+<a href="https://drive.google.com/file/d/1jANeRHCqSwJh4cK7Zgh8kx7nzp88Tbkz/view?usp=drive_link" target="_blank"><b>>>> Rybki <<<</b></a>
