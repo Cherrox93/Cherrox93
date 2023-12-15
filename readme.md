@@ -21,7 +21,7 @@ In progress
 - Eclipse
 - IntelliJ IDEA
 - Selenium
-- Java basics
+- Java
 
 # <a name="skills">Skills:</a>
 
