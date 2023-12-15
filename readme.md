@@ -86,4 +86,9 @@ In progress
 
 # <a name="Hobby">Hobby:</a> 
 
-<a href="https://drive.google.com/file/d/1jANeRHCqSwJh4cK7Zgh8kx7nzp88Tbkz/view?usp=drive_link" target="_blank"><b>>>> Rybki <<<</b></a>
+<a href="https://drive.google.com/file/d/1jANeRHCqSwJh4cK7Zgh8kx7nzp88Tbkz/view?usp=drive_link" target="_blank"><b>>>> 400 liters Fish Tank <<<</b></a>
+
+<a href="" target="_blank"><b>>>> 40 liters Shrimp Tank - Building in progress <<<</b></a>
+
+Casual Diablo 2 and Heroes 3 player
+
