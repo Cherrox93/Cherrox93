@@ -23,44 +23,42 @@ In progress
 
 - Chrome DevTools
 - HTML/CSS
-- Znajomość ISTQB Syllabus Foundation Level
-- SQL
-- System kontroli wersji GIT
-- Testowanie manualne
-- Znajomość procedur testowania oraz tworzenia dokumentacji technicznej:
+- Knowledge of ISTQB Syllabus Foundation Level
+- Manual Testing
+- Knowledge of testing procedures and creation of technical documentation:
 
-  I. Tworzenie przypadków testowych
+  I. Creating test cases
 
-  II. Wykonywanie przypadków testowych
+  II. Executing test cases
 
-  III. Tworzenie przypadków testowych na podstawie user stories
+  III. Creating test cases based on user stories
 
-  IV. Reportowanie bugów w Jira
+  IV. Bug reporting in Jira
 
 # <a name="soft skills">Soft Skills:</a>
 
-- Rozwiązywanie problemów i analityczne myślenie
-- Samodzielność
-- Umiejętność pracy w zespole
-- Komunikatywność
-- Odporność na stres
-- Dobra organizacja pracy
-- Umiejętność do szybkiego uczenia się nowych rzeczy
-- Dokładność
+- Problem solving and analytical thinking
+- Independence
+- Ability to work in a team
+- Communication skills
+- Resistance to stress
+- Good work organization
+- Ability to quickly learn new things
+- Accuracy
 
 # <a name="courses">Courses:</a>
 
 ✅ <a href="https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/" target="_blank">Praktyczny kurs testowania oprogramowania</a> Udemy - Zakończony
 
-- Podstawowa znajomość Chrome DevTools
+- Basic knowledge of Chrome DevTools
 - TestLink
-- Tworzenie planu testów
-- Projektowanie przypadków testowych
-- Wykonywanie przypadków testowych
-- Podstawowa znajomość Postman - Metody: GET, POST, PUT, DELETE
-- Podstawowa znajomość SQL
-- System kontroli wersji GIT
-- Podstawowa znajomość JMeter
+- Creating a test plan
+- Designing test cases
+- Execution of test cases
+- Basic knowledge of Postman - Methods: GET, POST, PUT, DELETE
+- Basic knowledge of SQL
+- GIT version control system
+- Basic knowledge of JMeter
 
 ✅ <a href="https://codebrainers.pl/tester_automat.pdf" target="_blank">Tester Automatyzujący (Java + Selenium)</a> Codebrainers - Zakończony
 
@@ -86,9 +84,9 @@ In progress
 
 # <a name="Hobby">Hobby:</a> 
 
-<a href="https://drive.google.com/file/d/1jANeRHCqSwJh4cK7Zgh8kx7nzp88Tbkz/view?usp=drive_link" target="_blank"><b>>>> 400 liters Fish Tank <<<</b></a>
+- <a href="https://drive.google.com/file/d/1jANeRHCqSwJh4cK7Zgh8kx7nzp88Tbkz/view?usp=drive_link" target="_blank"><b>>>> 400 liters Fish Tank <<<</b></a>
 
-<a href="" target="_blank"><b>>>> 40 liters Shrimp Tank - Building in progress <<<</b></a>
+- <a href="" target="_blank"><b>>>> 40 liters Shrimp Tank - Building in progress <<<</b></a>
 
-Casual Diablo 2 and Heroes 3 player
+- Casual Diablo 2 and Heroes 3 player
 
