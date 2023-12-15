@@ -18,6 +18,10 @@ In progress
 - Postman
 - JMeter
 - Visual Studio Code
+- Eclipse
+- IntelliJ IDEA
+- Selenium
+- Java basics
 
 # <a name="skills">Skills:</a>
 
