@@ -1,10 +1,11 @@
 # <a name="about me">About Me:</a>
 
-In progress
-
-
-
-
+Cześć! 
+Mam na imię Kamil. Jestem doświadczonym operatorem maszyn wtryskujących. Testowaniem zainteresowałem się w 2020 roku, kiedy parę miesięcy wcześniej dokonałem odkrycia, że
+istnieje coś takiego jak "blockchain" oraz "kryptowaluty". Przypadkowe znalezienie i zgłoszenie błędu w jednej aplikacji, z których korzystałem spowodowało dalsze
+zainteresowanie tematyką testowania. Od
+tamtego momentu przetestowałem już setki różnych aplikacji webowych oraz mobilnych. Jestem świadomy, że nawet najmniejszy błąd w oprogramowaniu może mieć duże konsekwencje, dlatego skrupulatnie analizuję każdy element aplikacji podczas testowania. Szukanie bugów, klikanie we wszystko co się da, doszukiwanie się najmniejszych błędów sprawia mi ogromną satysfakcję i jestem pewien, że chciałbym związać z tym swoją przyszłość. Cały czas rozwijam się w obszarze testowania manualnego, biorąc udział w różnych webinarach lub kursach. Dodatkowo poszerzam swoją wiedzę z zakresu automatyzacji testów w środowisku Java i narzędziu Selenium. Posiadam solidne fundamenty techniczne i praktyczne zrozumienie procesów produkcyjnych, które chcę wykorzystać do rozwijania się jako tester oprogramowania. Praca jako operator maszyn wtryskujących wyposażyła mnie w wiele przydatnych kompetencji, które mogę
+wykorzystać do zapewnienia wysokiej jakości produktów oprogramowania 
 
 # <a name="tools">Tools:</a>
 
