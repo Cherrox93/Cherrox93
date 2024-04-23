@@ -1,11 +1,11 @@
 # <a name="about me">About Me:</a>
 
-Cześć! 
-Mam na imię Kamil. Jestem doświadczonym operatorem maszyn wtryskujących. Testowaniem zainteresowałem się w 2020 roku, kiedy parę miesięcy wcześniej dokonałem odkrycia, że
-istnieje coś takiego jak "blockchain" oraz "kryptowaluty". Przypadkowe znalezienie i zgłoszenie błędu w jednej aplikacji, z których korzystałem spowodowało dalsze
-zainteresowanie tematyką testowania. Od
-tamtego momentu przetestowałem już setki różnych aplikacji webowych oraz mobilnych. Jestem świadomy, że nawet najmniejszy błąd w oprogramowaniu może mieć duże konsekwencje, dlatego skrupulatnie analizuję każdy element aplikacji podczas testowania. Szukanie bugów, klikanie we wszystko co się da, doszukiwanie się najmniejszych błędów sprawia mi ogromną satysfakcję i jestem pewien, że chciałbym związać z tym swoją przyszłość. Cały czas rozwijam się w obszarze testowania manualnego, biorąc udział w różnych webinarach lub kursach. Dodatkowo poszerzam swoją wiedzę z zakresu automatyzacji testów w środowisku Java i narzędziu Selenium. Posiadam solidne fundamenty techniczne i praktyczne zrozumienie procesów produkcyjnych, które chcę wykorzystać do rozwijania się jako tester oprogramowania. Praca jako operator maszyn wtryskujących wyposażyła mnie w wiele przydatnych kompetencji, które mogę
-wykorzystać do zapewnienia wysokiej jakości produktów oprogramowania 
+Cześć!
+Jestem Kamil, mam 31 lat i mieszkam w Krakowie. Testowaniem zainteresowałem się w 2020 roku, przypadkowo natrafiając na artykuł o technologii Blockchain. Od tamtej pory nieustannie poszerzałem swoją wiedzę z zakresu kryptowalut oraz manualnego testowania aplikacji webowych, mobilnych oraz desktopowych, a także brałem udział w wielu projektach crowdtestingowych.
+
+Będąc świadomym mojej pasji i zapału do testowania, chce podjąć się tego wyzwania zawodowo. Jestem pewien, że moja chęć do ciągłego rozwoju, wraz z łatwością do nawiązywania nowych znajomości oraz ogromnym poczuciem humoru sprawi, że szybko odnajdę się w nowym środowisku. 
+
+W wolnych chwilach staram się ciągle zgłębiać techniki testowania, a aktualnie uczę się do egzaminu na certyfikat ISTQB FL.
 
 # <a name="tools">Tools:</a>
 
