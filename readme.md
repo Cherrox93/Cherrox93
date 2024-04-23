@@ -65,13 +65,7 @@ W wolnych chwilach staram się ciągle zgłębiać techniki testowania, a aktual
 - GIT version control system
 - Basic knowledge of JMeter
 
-✅ <a href="https://codebrainers.pl/tester_automat.pdf" target="_blank">Tester Automatyzujący (Java + Selenium)</a> Codebrainers - Zakończony
-
-:rocket: <a href="https://www.udemy.com/course/selenium-webdriver-with-java-testng-and-log4j/" target="_blank">Selenium WebDriver 4 With Java - Novice To Ninja [2023]</a> Udemy - W trakcie
-
-:rocket: <a href="https://www.udemy.com/course/wprowadzenie-do-sql-instalacja-i-narzedzi-egzamin-70-461_1/" target="_blank">SQL Server wprowadzenie, instalacja narzędzia</a> Udemy - W trakcie
-
-:rocket: <a href="https://www.udemy.com/course/sql-server-zapytania-querying-exam-70-461/" target="_blank">SQL Server - zapytania. Querying</a> Udemy - W trakcie
+✅ <a href="https://codebrainers.pl/tester_automat.pdf" target="_blank">Tester Automatyzujący (Java + Selenium)</a> Codebrainers
 
 # <a name="webinars">Webinars:</a>
 
