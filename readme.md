@@ -53,7 +53,7 @@ W wolnych chwilach staram się ciągle zgłębiać techniki testowania, a aktual
 
 # <a name="courses">Courses:</a>
 
-✅ <a href="https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/" target="_blank">Praktyczny kurs testowania oprogramowania</a> Udemy - Zakończony
+✅ <a href="https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/" target="_blank">Praktyczny kurs testowania oprogramowania</a> Udemy
 
 - Basic knowledge of Chrome DevTools
 - TestLink
