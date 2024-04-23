@@ -85,9 +85,9 @@ W wolnych chwilach staram się ciągle zgłębiać techniki testowania, a aktual
 
 # <a name="hobby">Hobby:</a> 
 
-- <a href="https://drive.google.com/file/d/1jANeRHCqSwJh4cK7Zgh8kx7nzp88Tbkz/view?usp=drive_link" target="_blank"><b>>>> 400 liters Fish Tank <<<</b></a>
-
-- <a href="" target="_blank"><b>>>> 40 liters Shrimp Tank - Building in progress <<<</b></a>
-
-- Casual Diablo 2 and Heroes 3 player
+- Testowanie aplikacji web oraz mobile związanych z kryptowalutami
+- Akwarystyka - kiedy nie uczę się o testowaniu, to odpoczywam pielęgnując akwarium (całkowicie odwrotnie ma moja dziewczyna, która codziennie oczami wyobraźni widzi jak 400 litrów wody zalewa nam salon - nie rozumiem) <a href="https://drive.google.com/file/d/1jANeRHCqSwJh4cK7Zgh8kx7nzp88Tbkz/view?usp=drive_link" target="_blank"><b>>>> Click <<<</b></a>
+- Seriale - koniecznie “tasiemce”, między 15, a 20 sezonów
+- Uzależniony od memów i śmiesznych kotków
+- Niedzielny gracz Diablo 2 & Heroes 3
 
