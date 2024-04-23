@@ -74,7 +74,7 @@ W wolnych chwilach staram się ciągle zgłębiać techniki testowania, a aktual
 
 <a href="https://drive.google.com/file/d/1ck3UfV8uQCkL4fjmFEAvbtxYLUp7fz9m/view?usp=drive_link" target="_blank"><b>Praktyczny kurs testowania oprogramowania</b></a>
 
-<a href="https://drive.google.com/file/d/1MkAbkU0Qx31VtkSht9uXB3T49GL82qEm/view?usp=sharing" target="_blank"><b>Tester Oprogramowania - Tester Automatyzujący (Java)</b></a> & <ahref="https://drive.google.com/file/d/1OgWvw1IwuneP8C9UMHIcPwU_dOmUYrii/view?usp=sharing" target="_blank"><b>Certyfikat - Tester Oprogramowania (Java)</b></a> 
+<a href="https://drive.google.com/file/d/1MkAbkU0Qx31VtkSht9uXB3T49GL82qEm/view?usp=sharing" target="_blank"><b>Tester Oprogramowania - Tester Automatyzujący (Java)</b></a> & <a href="https://drive.google.com/file/d/1OgWvw1IwuneP8C9UMHIcPwU_dOmUYrii/view?usp=sharing" target="_blank"><b>Certyfikat - Tester Oprogramowania (Java)</b></a> 
 
 # <a name="hobby">Hobby:</a> 
 
@@ -87,5 +87,5 @@ W wolnych chwilach staram się ciągle zgłębiać techniki testowania, a aktual
 # <a name="hobby">Książki do nauki testowania:</a> 
 
 - <a href="https://www.empik.com/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-roman-adam-stapp-lucjan-michael-pilaeten,p1439248050,ksiazka-p?utm_source=google&utm_medium=cpc&utm_campaign=19721395900&utm_id=19721395900&utm_term=empik_ksiazka&gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVHSlu6xD4f5xGTxmpAWVHLrWtTmEJZlerA8wW1BJqyilcCMJHzU7BhoC5GQQAvD_BwE&gclsrc=aw.ds" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy - Roman Adam, Stapp Lucjan, Michael Pilaeten</a>
-- <a https://www.empik.com/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-roman-adam-stapp-lucjan-michael-pilaeten,p1439248050,ksiazka-p?utm_source=google&utm_medium=cpc&utm_campaign=19721395900&utm_id=19721395900&utm_term=empik_ksiazka&gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVHSlu6xD4f5xGTxmpAWVHLrWtTmEJZlerA8wW1BJqyilcCMJHzU7BhoC5GQQAvD_BwE&gclsrc=aw.ds" target="_blank">Python dla testera - Wróblewski Piotr</a>tr
+- <a href="https://www.empik.com/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-roman-adam-stapp-lucjan-michael-pilaeten,p1439248050,ksiazka-p?utm_source=google&utm_medium=cpc&utm_campaign=19721395900&utm_id=19721395900&utm_term=empik_ksiazka&gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVHSlu6xD4f5xGTxmpAWVHLrWtTmEJZlerA8wW1BJqyilcCMJHzU7BhoC5GQQAvD_BwE&gclsrc=aw.ds" target="_blank">Python dla testera - Wróblewski Piotr</a>
 
