@@ -28,7 +28,7 @@ W wolnych chwilach staram się ciągle zgłębiać techniki testowania, a aktual
 
 - Chrome DevTools
 - HTML/CSS
-- Knowledge of ISTQB Syllabus Foundation Level
+- Znajomość ISTQB Syllabus Foundation Level
 - Testowanie manualne
 
   I. Tworzenie przypadków testowych
